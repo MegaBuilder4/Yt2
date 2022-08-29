@@ -15,7 +15,7 @@ import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
-  { name: 'Gaming', icon: <HomeIcon />, },
+  { name: '', icon: <HomeIcon />, },
   { name: 'Gaming Guys', icon: <SportsEsportsIcon />, },
   { name: 'G-only1', icon: <SportsEsportsIcon />, },
   { name: 'Minecraft', icon: <SportsEsportsIcon />, },
