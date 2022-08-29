@@ -5,7 +5,7 @@ import { fetchFromAPI } from "../utils/fetchFromAPI";
 import { Videos, Sidebar } from "./";
 
 const Feed = () => {
-  const [selectedCategory, setSelectedCategory] = useState("Gaming");
+  const [selectedCategory, setSelectedCategory] = useState("");
   const [videos, setVideos] = useState(null);
 
   useEffect(() => {
