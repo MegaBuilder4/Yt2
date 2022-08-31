@@ -18,6 +18,7 @@ export const categories = [
   { name: '', icon: <HomeIcon />, },
   { name: 'Gaming Guys', icon: <SportsEsportsIcon />, },
   { name: 'G-only1', icon: <SportsEsportsIcon />, },
+  { name: 'OnlyExpertPlus🐢', icon: <MusicNoteIcon />, },
   { name: 'Minecraft', icon: <SportsEsportsIcon />, },
   { name: 'Roblox', icon: <SportsEsportsIcon />, },
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
